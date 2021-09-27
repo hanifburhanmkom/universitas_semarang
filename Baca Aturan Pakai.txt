@@ -1,0 +1,4 @@
+Di dalam folder ini berisi kumpulan file dan library yang di perlukan untuk belajar coding
+file dan library di ambil dari bermacam - macam sumber
+
+jadi tolong gunakan secara baik dan seksama dan dalam tempo se singkat singkatnya
